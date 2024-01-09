@@ -95,6 +95,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 [![Nuxt][Nuxt.js]][Nuxt-url]
 [![Vue][Vue.js]][Vue-url]
+[![DatoCMS][DatoCMS]][DatoCMS-url]
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
@@ -225,8 +226,13 @@ Project Link: [https://github.com/GiovanniDw/SRP](https://github.com/GiovanniDw/
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
-[Nuxt.js]: https://img.shields.io/badge/Nuxt.js-000000?style=for-the-badge&logo=nuxtdotjs&logoColor=white
+
+[Nuxt.js]: https://img.shields.io/badge/Nuxt.js-10152A?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82
 [Nuxt-url]: https://nuxt.com/
+
+[DatoCMS]: https://img.shields.io/badge/DatoCMS-ffffff?style=for-the-badge&logo=datocms&logoColor=#FF7751
+[DatoCMS-url]: https://www.datocms.com/
+
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
