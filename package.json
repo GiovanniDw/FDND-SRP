@@ -1,15 +1,15 @@
 {
-	"name": "srp",
-	"version": "0.0.1",
+	"name": "fdnd-srp",
+	"version": "1.0.0",
 	"type": "module",
 	"license": "MIT",
 	"author": "Giovanni giovanni.dwidjosewojo@hva.nl",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/GiovanniDw/SRP.git"
+		"url": "https://github.com/GiovanniDw/FDND-SRP.git"
 	},
-	"homepage": "https://github.com/GiovanniDw/SRP#README",
-	"url": "https://github.com/GiovanniDw/SRP/issues",
+	"homepage": "https://github.com/GiovanniDw/FDND-SRP#README",
+	"url": "https://github.com/GiovanniDw/FDND-SRP/issues",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
