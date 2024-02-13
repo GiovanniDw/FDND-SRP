@@ -2,6 +2,9 @@
 	import { page } from '$app/stores'
 	import logo from '$lib/images/svelte-logo.svg'
 	import github from '$lib/images/github.svg'
+
+
+	
 </script>
 
 <header>
@@ -24,6 +27,9 @@
 			</li>
 			<li aria-current={$page.url.pathname.startsWith('/sverdle') ? 'page' : undefined}>
 				<a href="/sverdle">Sverdle</a>
+			</li>
+			<li aria-current={$page.url.pathname.startsWith('/dashboard') ? 'page' : undefined}>
+				<a href="/dashboard">Dashboard</a>
 			</li>
 		</ul>
 		<svg viewBox="0 0 2 3" aria-hidden="true">
@@ -127,3 +133,8 @@
 		color: var(--color-theme-1);
 	}
 </style>
+
+CREATE TABLE persons (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(100)
+);
